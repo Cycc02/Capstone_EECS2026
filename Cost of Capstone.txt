@@ -1,0 +1,14 @@
+Cost of Capstone
+1. Materials batch 1 (6/11/2025) - RM51.12
+2. Materials batch 2 (9/11/2025) - RM6.41
+3. Transport Materials (11/10/2025) - RM19.0
+4. PCB (4/12/2025) - RM6.51
+5. Components for PCB (4/12/2025) - RM5.0 (Can be ignored)
+6. Materials batch 3 (7/12/2025) - RM68.27 + RM2.41 + RM2.34 = RM73.02
+7. LoRA RA01 Module Shopee (13/12/2025) - RM15.48
+8. 3D Printing (12/12/2025) - RM69.50 
+9. Transport Materials Batch 3 - RM31.56
+10. Printing Capstone Claim Documents (2/1/2026) - RM4.50
+
+Total (2/1/2026) - RM277.10
+
